@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "453903700915",
+    "project_id": "shootpoints-85831",
+    "storage_bucket": "shootpoints-85831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453903700915:android:f94e4e012f5d5a7e5371c6",
+        "android_client_info": {
+          "package_name": "com.gmail.unveryalincak1.shootpointsyeni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453903700915-0taddroihl8794ssk1b7dumo7kgl7bs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4NLFVebjMpVboSAKu8T4ukN4bozMw92I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453903700915-0taddroihl8794ssk1b7dumo7kgl7bs2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453903700915-a751b5k733k1s983si0pavtq2lhksbba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gmail.unveryalincak1.shootpointsyeni"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453903700915:android:a03df1d5b48039205371c6",
+        "android_client_info": {
+          "package_name": "com.gmail.unveryalincak1.shootpointsyeni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453903700915-0taddroihl8794ssk1b7dumo7kgl7bs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4NLFVebjMpVboSAKu8T4ukN4bozMw92I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453903700915-0taddroihl8794ssk1b7dumo7kgl7bs2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453903700915-a751b5k733k1s983si0pavtq2lhksbba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gmail.unveryalincak1.shootpointsyeni"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

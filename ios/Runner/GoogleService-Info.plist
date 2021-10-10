@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>453903700915-mr7mnm6l8gek6ph8dmk77f4qjqmakbq0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.453903700915-mr7mnm6l8gek6ph8dmk77f4qjqmakbq0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>453903700915-cdi9gej346tj3tk4bi445pck7v3csul4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAWp9lcmRgmgv4sguJJ4ONO2hZECocc_j4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>453903700915</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gmail.unveryalincak1.shootpointsyeni</string>
+	<key>PROJECT_ID</key>
+	<string>shootpoints-85831</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shootpoints-85831.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:453903700915:ios:c7414df8ae2b27465371c6</string>
+</dict>
+</plist>
